@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663120137078",
+    "project_id": "funolympics-3eccc",
+    "storage_bucket": "funolympics-3eccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663120137078:android:6cdcc56cfeac8f9a5b4857",
+        "android_client_info": {
+          "package_name": "com.creapptors.funolympic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663120137078-36pe4a4mil4kius412cd00vfefjl832t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB78XzU-M5dRwYm7LFvrQEvqC6OxeOC1RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663120137078-36pe4a4mil4kius412cd00vfefjl832t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
