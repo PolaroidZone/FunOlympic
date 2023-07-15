@@ -66,7 +66,7 @@ https://firebase.google.com/docs/android/setup#:~:text=Open%20the%20Firebase%20A
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of this license.
+This project is licensed under [The Unlicense](https://github.com/PolaroidZone/FunOlympic/blob/main/LICENSE). Feel free to use, modify, and distribute the code as per the terms of this license.
 
 ## Contact
 
